@@ -1,0 +1,35 @@
+body {
+    color:white;
+    background-color: #46464bea;
+    font-family: 'Open Sans', sans-serif;
+}
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(187, 99, 17);
+}
+h1 {
+    color: rgb(221, 123, 11);
+}
+h2, h3 {
+    color: black;
+}
+footer img {
+    width: 30px;
+    height: 30px;
+    border-radius: 15%;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+.container {
+    padding: 0px 50px;
+}
